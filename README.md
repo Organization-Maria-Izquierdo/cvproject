@@ -1,6 +1,6 @@
 # CV-PROJECT
 This is a cv website.
-[PROJECT URL](https://githubproject.com)
+[PROJECT URL]([ttps://githubproject.com](https://organization-maria-izquierdo.github.io/cvproject/))
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
