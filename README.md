@@ -54,5 +54,5 @@ Functional and Regression test results and report for each project release.
 * [Regression Test Results 1.2](/test-result/regression-test-results-release-1.2.pdf)
 
 ## AUTHOR
-Reyes Cuesta, QA Engineer
+Maria Izquierdo, QA Junior
 [LinkedIn Profile](https://www.linkedin.com/in/mariaizquierdoc/)
